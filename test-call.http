@@ -1,0 +1,3 @@
+
+#Simple Call to the method.
+GET http://localhost:8080/student/register
